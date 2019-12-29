@@ -1,0 +1,11 @@
+{
+  "name": "custompdfgenerate",
+  "version": "1.0.0",
+  "description": "Generates a custom pdf based on HTML content",
+  "main": "index.js",
+  "author": "Bharat Savaliya",
+  "dependencies": {
+    "fs-extra": "8.1.0",
+    "puppeteer": "2.0.0"
+  }
+}
